@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="500d667a-f03f-4198-ba7e-c3203c2295e8" name="Default Changelist" comment="" />
+    <list default="true" id="500d667a-f03f-4198-ba7e-c3203c2295e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/MysqlCfg.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/word.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/word.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/WordCount.scala" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/target/" />
@@ -19,10 +25,84 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/HadoopRDD.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1826">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="249">
+              <caret line="212" column="88" selection-start-line="212" selection-start-column="67" selection-end-line="212" selection-end-column="88" />
+              <folding>
+                <element signature="e#1765#1834#0" />
+                <element signature="e#1944#2831#0" />
+                <element signature="e#2135#2338#0" />
+                <element signature="e#2135#2829#0" />
+                <element signature="e#2472#2788#0" />
+                <element signature="e#2547#2628#0" />
+                <element signature="e#2674#2782#0" />
+                <element signature="e#2794#2813#0" />
+                <element signature="e#2833#3946#0" />
+                <element signature="e#4334#4391#0" />
+                <element signature="e#4395#4846#0" />
+                <element signature="e#4597#4842#0" />
+                <element signature="e#5341#7655#0" />
+                <element signature="e#5559#6479#0" />
+                <element signature="e#5567#5657#0" />
+                <element signature="e#6238#6473#0" />
+                <element signature="e#6373#6446#0" />
+                <element signature="e#6485#7651#0" />
+                <element signature="e#6525#6623#0" />
+                <element signature="e#6629#7645#0" />
+                <element signature="e#6707#6815#0" />
+                <element signature="e#6837#7637#0" />
+                <element signature="e#6851#6939#0" />
+                <element signature="e#7324#7627#0" />
+                <element signature="e#7659#7982#0" />
+                <element signature="e#7869#7959#0" />
+                <element signature="e#7986#8591#0" />
+                <element signature="e#8328#8380#0" />
+                <element signature="e#8386#8414#0" />
+                <element signature="e#8510#8577#0" />
+                <element signature="e#9098#9306#0" />
+                <element signature="e#9314#9406#0" />
+                <element signature="e#9557#9738#0" />
+                <element signature="e#9746#9819#0" />
+                <element signature="e#9746#10246#0" />
+                <element signature="e#10139#10238#0" />
+                <element signature="e#10393#10545#0" />
+                <element signature="e#10747#10877#0" />
+                <element signature="e#11004#11216#0" />
+                <element signature="e#11025#11114#0" />
+                <element signature="e#11413#11960#0" />
+                <element signature="e#11593#11706#0" />
+                <element signature="e#11740#11792#0" />
+                <element signature="e#11892#11931#0" />
+                <element signature="e#11968#13012#0" />
+                <element signature="e#12027#13004#0" />
+                <element signature="e#12178#12301#0" />
+                <element signature="e#12217#12301#0" />
+                <element signature="e#12408#12451#0" />
+                <element signature="e#12587#12994#0" />
+                <element signature="e#12601#12682#0" />
+                <element signature="e#13079#13431#0" />
+                <element signature="e#13435#13816#0" />
+                <element signature="e#13590#13747#0" />
+                <element signature="e#13820#13909#0" />
+                <element signature="e#13913#14315#0" />
+                <element signature="e#14012#14279#0" />
+                <element signature="e#14030#14273#0" />
+                <element signature="e#14412#17121#0" />
+                <element signature="e#14416#14608#0" />
+                <element signature="e#14812#14945#0" />
+                <element signature="e#15150#15768#0" />
+                <element signature="e#15772#15937#0" />
+                <element signature="e#16162#16599#0" />
+                <element signature="e#16343#16595#0" />
+                <element signature="e#16603#17119#0" />
+                <element signature="e#16734#17115#0" />
+                <element signature="e#16745#17114#0" />
+                <element signature="e#16832#17080#0" />
+                <element signature="e#16862#17000#0" />
+                <element signature="e#17006#17072#0" />
+                <element signature="e#17086#17108#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -30,90 +110,87 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/WordCount.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="156">
+              <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
               <folding>
-                <element signature="e#28#59#0" expanded="true" />
+                <element signature="e#28#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar!/scala/Tuple2.class">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="639" column="6" selection-start-line="639" selection-start-column="6" selection-end-line="639" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Column.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="689" column="6" selection-start-line="689" selection-start-column="6" selection-end-line="689" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/word.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/ProgramFiles/Java/src.zip!/java/lang/String.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Dataset.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="690" column="6" selection-start-line="690" selection-start-column="6" selection-end-line="690" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/MysqlCfg.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/main/scala/cn/com/magicwifi/bigdata/spark/mysql/MysqlConnection.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="64" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/ProgramFiles/Java/src.zip!/java/util/Properties.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/SparkSession.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="292" column="21" selection-start-line="292" selection-start-column="6" selection-end-line="292" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1074">
-              <caret line="94" selection-start-line="46" selection-end-line="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/test/scala/cn/com/magicwifi/bigdata/spark/test/WordCount.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="75" column="56" selection-start-line="75" selection-start-column="56" selection-end-line="75" selection-end-column="56" />
+              <caret line="138" column="11" selection-start-line="138" selection-start-column="11" selection-end-line="138" selection-end-column="11" />
               <folding>
-                <element signature="e#45#104#0" expanded="true" />
+                <element signature="e#4787#4788#0" expanded="true" />
+                <element signature="e#4813#4814#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/test/scala/cn/com/magicwifi/bigdata/spark/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="28" selection-start-line="28" selection-end-line="42" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#524#532#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/main/scala/cn/com/magicwifi/bigdata/spark/NetWorkStatWirelessPing.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="586" column="30" selection-start-line="586" selection-start-column="30" selection-end-line="586" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/main/scala/cn/com/magicwifi/bigdata/spark/domain/analysis/DomainHire.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -130,6 +207,9 @@
       <find>spark</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/main/scala/cn/com/magicwifi/bigdata/spark/NetWorkStatWirelessPing.scala" root0="SKIP_INSPECTION" />
@@ -141,7 +221,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/cn/com/benny/learn/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/com/benny/learn/Test.scala" />
-        <option value="$PROJECT_DIR$/data/word.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/Test.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/WorkCount.scala" />
         <option value="$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/test/scala/cn/com/magicwifi/bigdata/spark/test/Main.scala" />
@@ -151,8 +230,11 @@
         <option value="$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/main/java/cn/com/magicwifi/bigdata/spark/utils/HTTPUtils.java" />
         <option value="$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/pom.xml" />
         <option value="$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/test/scala/cn/com/magicwifi/bigdata/spark/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/WordCount.scala" />
+        <option value="$PROJECT_DIR$/data/word.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/MysqlCfg.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/WordCount.scala" />
       </list>
     </option>
   </component>
@@ -174,16 +256,18 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="MagicWiFi :: Bigdata :: Spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="spark-learn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="MagicWiFi::Bigdata" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="spark-learn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="MagicWiFi::Bigdata" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="spark-learn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.spark:spark-core_2.11:2.3.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
@@ -198,6 +282,9 @@
     <option name="y" value="71" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -243,80 +330,6 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="sparksql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparklearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -326,6 +339,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../magicwifi-parent/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -333,7 +347,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -402,24 +416,24 @@
       <option name="presentableId" value="Default" />
       <updated>1544458947682</updated>
       <workItem from="1544458951561" duration="5077000" />
-      <workItem from="1544543609780" duration="9252000" />
+      <workItem from="1544543609780" duration="26725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14329000" />
+    <option name="totallyTimeSpent" value="31802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2246596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17511521" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36615384" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38153845" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -428,10 +442,10 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3824885" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.23041475" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.41846153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
       <window_info anchor="right" id="Maven" order="3" weight="0.2927383" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
@@ -439,82 +453,29 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/HadoopRDD.scala</url>
+          <line>230</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/WordCount.scala</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar!/org/apache/spark/SparkConf.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/com/benny/learn/App.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar!/org/apache/spark/SparkContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar!/scala/collection/mutable/WrappedArray.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/mutable/WrappedArray.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.7/scala-library-2.12.7.jar!/scala/collection/mutable/WrappedArray.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5054">
-          <caret line="305" column="6" selection-start-line="305" selection-start-column="6" selection-end-line="305" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6213">
-          <caret line="369" column="6" selection-start-line="369" selection-start-column="6" selection-end-line="369" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/word.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/SparkContext.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/main/scala/cn/com/magicwifi/bigdata/spark/NetworkScore.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -684,6 +645,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="62" column="25" lean-forward="true" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapreduce/InputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="69" column="16" lean-forward="true" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapred/TextInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar!/scala/Tuple2.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -691,19 +673,380 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/io/LongWritable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/io/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="277" column="16" selection-start-line="277" selection-start-column="16" selection-end-line="277" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="1029" column="14" selection-start-line="1029" selection-start-column="14" selection-end-line="1029" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/internal/Logging.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapred/InputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="84" column="15" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapred/FileInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="311" column="1" lean-forward="true" selection-start-line="311" selection-start-column="1" selection-end-line="311" selection-end-column="1" />
+          <folding>
+            <element signature="docComment;class#FileInputFormat#0" />
+            <element signature="e#2416#2441#0" />
+            <element signature="class#Counter#0;class#FileInputFormat#0" />
+            <element signature="docComment;class#MultiPathFilter#0;class#FileInputFormat#0" />
+            <element signature="class#MultiPathFilter#0;class#FileInputFormat#0" />
+            <element signature="method#accept#0;class#MultiPathFilter#0;class#FileInputFormat#0" />
+            <element signature="e#3860#3939#1" />
+            <element signature="e#3896#3931#1" />
+            <element signature="docComment;method#isSplitable#0;class#FileInputFormat#0" />
+            <element signature="docComment;method#setInputPathFilter#0;class#FileInputFormat#0" />
+            <element signature="method#setInputPathFilter#0;class#FileInputFormat#0" />
+            <element signature="docComment;method#getInputPathFilter#0;class#FileInputFormat#0" />
+            <element signature="method#getInputPathFilter#0;class#FileInputFormat#0" />
+            <element signature="docComment;method#addInputPathRecursively#0;class#FileInputFormat#0" />
+            <element signature="method#addInputPathRecursively#0;class#FileInputFormat#0" />
+            <element signature="e#6287#6559#1" />
+            <element signature="e#6379#6553#1" />
+            <element signature="e#6413#6500#1" />
+            <element signature="e#6506#6545#1" />
+            <element signature="docComment;method#listStatus#0;class#FileInputFormat#0" />
+            <element signature="method#listStatus#0;class#FileInputFormat#0" />
+            <element signature="e#6966#7037#1" />
+            <element signature="e#7314#7376#0" />
+            <element signature="e#7586#7623#1" />
+            <element signature="e#8016#8197#1" />
+            <element signature="e#8203#8680#1" />
+            <element signature="e#8263#8493#0" />
+            <element signature="e#8525#8608#0" />
+            <element signature="e#8727#8808#1" />
+            <element signature="method#singleThreadedListStatus#0;class#FileInputFormat#0" />
+            <element signature="e#9191#10233#1" />
+            <element signature="e#9325#9406#1" />
+            <element signature="e#9437#9526#1" />
+            <element signature="e#9532#10227#1" />
+            <element signature="e#9577#10219#1" />
+            <element signature="e#9617#10156#1" />
+            <element signature="e#9765#10144#1" />
+            <element signature="e#9873#10130#1" />
+            <element signature="e#9928#10053#1" />
+            <element signature="e#10059#10114#1" />
+            <element signature="e#10162#10209#1" />
+            <element signature="e#10261#10315#1" />
+            <element signature="docComment;method#makeSplit#0;class#FileInputFormat#0" />
+            <element signature="method#makeSplit#0;class#FileInputFormat#0" />
+            <element signature="docComment;method#makeSplit#1;class#FileInputFormat#0" />
+            <element signature="method#makeSplit#1;class#FileInputFormat#0" />
+            <element signature="docComment;method#getSplits#0;class#FileInputFormat#0" />
+            <element signature="e#11460#11648#1" />
+            <element signature="e#11536#11608#1" />
+            <element signature="e#11922#11933#0" expanded="true" />
+            <element signature="e#12265#12349#1" />
+            <element signature="e#12355#12434#1" />
+            <element signature="e#12470#13355#1" />
+            <element signature="e#12703#13019#1" />
+            <element signature="e#13056#13345#1" />
+            <element signature="e#13361#13549#1" />
+            <element signature="e#13563#13693#1" />
+            <element signature="e#13745#13880#1" />
+            <element signature="method#computeSplitSize#0;class#FileInputFormat#0" />
+            <element signature="method#getBlockIndex#0;class#FileInputFormat#0" />
+            <element signature="e#14286#14495#1" />
+            <element signature="e#14462#14489#1" />
+            <element signature="docComment;method#setInputPaths#0;class#FileInputFormat#0" />
+            <element signature="method#setInputPaths#0;class#FileInputFormat#0" />
+            <element signature="docComment;method#addInputPaths#0;class#FileInputFormat#0" />
+            <element signature="method#addInputPaths#0;class#FileInputFormat#0" />
+            <element signature="e#15707#15755#1" />
+            <element signature="docComment;method#setInputPaths#1;class#FileInputFormat#0" />
+            <element signature="method#setInputPaths#1;class#FileInputFormat#0" />
+            <element signature="e#16283#16458#1" />
+            <element signature="docComment;method#addInputPath#0;class#FileInputFormat#0" />
+            <element signature="method#addInputPath#0;class#FileInputFormat#0" />
+            <element signature="method#getPathStrings#0;class#FileInputFormat#0" />
+            <element signature="e#17618#18284#1" />
+            <element signature="e#17684#18278#0" />
+            <element signature="e#17705#17830#1" />
+            <element signature="e#17758#17803#1" />
+            <element signature="e#17850#17993#1" />
+            <element signature="e#17920#17966#1" />
+            <element signature="e#18013#18189#1" />
+            <element signature="e#18043#18162#1" />
+            <element signature="docComment;method#getInputPaths#0;class#FileInputFormat#0" />
+            <element signature="method#getInputPaths#0;class#FileInputFormat#0" />
+            <element signature="e#18902#18974#1" />
+            <element signature="method#sortInDescendingOrder#0;class#FileInputFormat#0" />
+            <element signature="e#19293#19324#1" />
+            <element signature="e#19338#19414#1" />
+            <element signature="docComment;method#getSplitHosts#0;class#FileInputFormat#0" />
+            <element signature="method#getSplitHosts#0;class#FileInputFormat#0" />
+            <element signature="docComment;method#getSplitHostsAndCachedHosts#0;class#FileInputFormat#0" />
+            <element signature="method#getSplitHostsAndCachedHosts#0;class#FileInputFormat#0" />
+            <element signature="e#21257#21386#1" />
+            <element signature="e#21529#21662#1" />
+            <element signature="e#21936#21993#0" />
+            <element signature="e#22108#23907#0" />
+            <element signature="e#22185#22240#1" />
+            <element signature="e#22275#22329#1" />
+            <element signature="e#22341#22410#1" />
+            <element signature="e#22482#22530#0" />
+            <element signature="e#22590#22650#1" />
+            <element signature="e#22658#22714#0" />
+            <element signature="e#22896#23879#0" />
+            <element signature="e#23042#23122#1" />
+            <element signature="e#23210#23599#1" />
+            <element signature="e#23424#23545#1" />
+            <element signature="e#23613#23759#1" />
+            <element signature="method#identifyHosts#0;class#FileInputFormat#0" />
+            <element signature="e#24554#24609#0" />
+            <element signature="e#24681#25248#1" />
+            <element signature="e#24968#25186#1" />
+            <element signature="e#25127#25178#1" />
+            <element signature="e#25218#25242#1" />
+            <element signature="method#fakeRacks#0;class#FileInputFormat#0" />
+            <element signature="e#25524#25601#1" />
+            <element signature="class#NodeInfo#0;class#FileInputFormat#0" />
+            <element signature="method#NodeInfo#0;class#NodeInfo#0;class#FileInputFormat#0" />
+            <element signature="method#getValue#0;class#NodeInfo#0;class#FileInputFormat#0" />
+            <element signature="method#addValue#0;class#NodeInfo#0;class#FileInputFormat#0" />
+            <element signature="e#26046#26084#1" />
+            <element signature="method#getLeaves#0;class#NodeInfo#0;class#FileInputFormat#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/InterruptibleIterator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="27" column="70" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/SerializableWritable.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/storage/StorageLevel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="152" column="6" selection-start-line="152" selection-start-column="6" selection-end-line="152" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/util/Either.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="189" column="17" selection-start-line="189" selection-start-column="17" selection-end-line="189" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/storage/BlockManager.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="794" column="25" lean-forward="true" selection-start-line="794" selection-start-column="25" selection-end-line="794" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1826">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="285">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/MapPartitionsRDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/DataFrameReader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="247" column="61" selection-start-line="247" selection-start-column="51" selection-end-line="247" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/HadoopRDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="212" column="88" selection-start-line="212" selection-start-column="67" selection-end-line="212" selection-end-column="88" />
+          <folding>
+            <element signature="e#1765#1834#0" />
+            <element signature="e#1944#2831#0" />
+            <element signature="e#2135#2338#0" />
+            <element signature="e#2135#2829#0" />
+            <element signature="e#2472#2788#0" />
+            <element signature="e#2547#2628#0" />
+            <element signature="e#2674#2782#0" />
+            <element signature="e#2794#2813#0" />
+            <element signature="e#2833#3946#0" />
+            <element signature="e#4334#4391#0" />
+            <element signature="e#4395#4846#0" />
+            <element signature="e#4597#4842#0" />
+            <element signature="e#5341#7655#0" />
+            <element signature="e#5559#6479#0" />
+            <element signature="e#5567#5657#0" />
+            <element signature="e#6238#6473#0" />
+            <element signature="e#6373#6446#0" />
+            <element signature="e#6485#7651#0" />
+            <element signature="e#6525#6623#0" />
+            <element signature="e#6629#7645#0" />
+            <element signature="e#6707#6815#0" />
+            <element signature="e#6837#7637#0" />
+            <element signature="e#6851#6939#0" />
+            <element signature="e#7324#7627#0" />
+            <element signature="e#7659#7982#0" />
+            <element signature="e#7869#7959#0" />
+            <element signature="e#7986#8591#0" />
+            <element signature="e#8328#8380#0" />
+            <element signature="e#8386#8414#0" />
+            <element signature="e#8510#8577#0" />
+            <element signature="e#9098#9306#0" />
+            <element signature="e#9314#9406#0" />
+            <element signature="e#9557#9738#0" />
+            <element signature="e#9746#9819#0" />
+            <element signature="e#9746#10246#0" />
+            <element signature="e#10139#10238#0" />
+            <element signature="e#10393#10545#0" />
+            <element signature="e#10747#10877#0" />
+            <element signature="e#11004#11216#0" />
+            <element signature="e#11025#11114#0" />
+            <element signature="e#11413#11960#0" />
+            <element signature="e#11593#11706#0" />
+            <element signature="e#11740#11792#0" />
+            <element signature="e#11892#11931#0" />
+            <element signature="e#11968#13012#0" />
+            <element signature="e#12027#13004#0" />
+            <element signature="e#12178#12301#0" />
+            <element signature="e#12217#12301#0" />
+            <element signature="e#12408#12451#0" />
+            <element signature="e#12587#12994#0" />
+            <element signature="e#12601#12682#0" />
+            <element signature="e#13079#13431#0" />
+            <element signature="e#13435#13816#0" />
+            <element signature="e#13590#13747#0" />
+            <element signature="e#13820#13909#0" />
+            <element signature="e#13913#14315#0" />
+            <element signature="e#14012#14279#0" />
+            <element signature="e#14030#14273#0" />
+            <element signature="e#14412#17121#0" />
+            <element signature="e#14416#14608#0" />
+            <element signature="e#14812#14945#0" />
+            <element signature="e#15150#15768#0" />
+            <element signature="e#15772#15937#0" />
+            <element signature="e#16162#16599#0" />
+            <element signature="e#16343#16595#0" />
+            <element signature="e#16603#17119#0" />
+            <element signature="e#16734#17115#0" />
+            <element signature="e#16745#17114#0" />
+            <element signature="e#16832#17080#0" />
+            <element signature="e#16862#17000#0" />
+            <element signature="e#17006#17072#0" />
+            <element signature="e#17086#17108#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/ProgramFiles/Java/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="138" column="11" selection-start-line="138" selection-start-column="11" selection-end-line="138" selection-end-column="11" />
+          <folding>
+            <element signature="e#4787#4788#0" expanded="true" />
+            <element signature="e#4813#4814#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../magicwifi-bigdata/trunk/spark/src/main/scala/cn/com/magicwifi/bigdata/spark/mysql/MysqlConnection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/MysqlCfg.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/word.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Dataset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="690" column="6" selection-start-line="690" selection-start-column="6" selection-end-line="690" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.3.0/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Column.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="689" column="6" selection-start-line="689" selection-start-column="6" selection-end-line="689" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="639" column="6" selection-start-line="639" selection-start-column="6" selection-end-line="639" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/benny/learn/WordCount.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="156">
+          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
           <folding>
-            <element signature="e#28#59#0" expanded="true" />
+            <element signature="e#28#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
