@@ -28,7 +28,16 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.47</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-streaming-kafka-0-10_2.11</artifactId>
+            <version>2.4.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.54</version>
+        </dependency>
 
         <dependency>
             <groupId>org.scala-lang</groupId>
